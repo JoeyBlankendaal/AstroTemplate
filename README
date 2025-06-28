@@ -5,3 +5,4 @@ An opinionated [Astro](https://astro.build/) template.
 ## Features
 
 - [Only allow pnpm](https://pnpm.io/only-allow-pnpm)
+- Formatter: [Biome](https://biomejs.dev/)
